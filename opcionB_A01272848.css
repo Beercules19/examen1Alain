@@ -1,0 +1,24 @@
+.body{
+	align-items: center;
+}
+div {
+	text-align: center;
+}
+
+button {
+	align-self: center;
+}
+#logo{
+	height: 50px;
+	align-self: left;
+}
+
+#btnImg{
+	height: 25px;
+	padding: 5px 5px 5px 5px;
+}
+
+#imagenes{
+	display: flex;
+	flex-direction: column;
+}
